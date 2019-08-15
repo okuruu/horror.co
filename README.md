@@ -1,5 +1,5 @@
-# _Project Squidward_
-![alt text](https://github.com/okuruu/Squidward/blob/master/Resources/gmbr.jpg)
+# _OKURUU - Horror Stories & Creepypasta from OKURUU_
+![alt text](https://github.com/okuruu/Squidward/blob/master/Resources/clown.jpg)
 
 Diusahakan bisa rilis 6 bulan kedepan.
 

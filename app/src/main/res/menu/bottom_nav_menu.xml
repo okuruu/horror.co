@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/story"
+        android:icon="@drawable/ghost"
+        android:title="Story" />
+    <item
+        android:id="@+id/myth"
+        android:icon="@drawable/fear"
+        android:title="Myth" />
+    <item
+        android:id="@+id/blogs"
+        android:icon="@drawable/blackcat"
+        android:title="Blogs" />
+</menu>
